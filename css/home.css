@@ -60,8 +60,6 @@ body a:active {
     border-bottom: 1px dotted #222;
     top: -1px;
 }
-body a:hover:after,
-body a:active:after { content: " ›" }
 section {
     max-width: 960px;
     margin-left: auto;
